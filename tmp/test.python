@@ -1,0 +1,4 @@
+import nltk
+
+# print corpus.__dict__.keys()
+nltk.demo()
